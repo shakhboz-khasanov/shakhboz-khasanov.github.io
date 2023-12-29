@@ -1,0 +1,41 @@
+div {
+  display: none;
+}
+
+#menu {
+  background-color: #524d4d;
+  color: #4fa669;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+#menu li {
+  display: inline;
+  padding: 10px;
+}
+
+#menu li button {
+  background-color: #524d4d;
+  color: #4fa669;
+  border: none;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+main {
+  background-color: #524d4d;
+  color: #4fa669;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
